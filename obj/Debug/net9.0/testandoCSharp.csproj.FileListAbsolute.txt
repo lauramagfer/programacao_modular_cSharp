@@ -1,0 +1,34 @@
+C:\Users\lauramagf\nuvemALLDADOS\Documents\pucminas\testandoCSharp\bin\Debug\net9.0\testandoCSharp.deps.json
+C:\Users\lauramagf\nuvemALLDADOS\Documents\pucminas\testandoCSharp\bin\Debug\net9.0\testandoCSharp.dll
+C:\Users\lauramagf\nuvemALLDADOS\Documents\pucminas\testandoCSharp\bin\Debug\net9.0\testandoCSharp.pdb
+C:\Users\lauramagf\nuvemALLDADOS\Documents\pucminas\testandoCSharp\obj\Debug\net9.0\testandoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lauramagf\nuvemALLDADOS\Documents\pucminas\testandoCSharp\obj\Debug\net9.0\testandoCSharp.AssemblyInfoInputs.cache
+C:\Users\lauramagf\nuvemALLDADOS\Documents\pucminas\testandoCSharp\obj\Debug\net9.0\testandoCSharp.AssemblyInfo.cs
+C:\Users\lauramagf\nuvemALLDADOS\Documents\pucminas\testandoCSharp\obj\Debug\net9.0\testandoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\lauramagf\nuvemALLDADOS\Documents\pucminas\testandoCSharp\obj\Debug\net9.0\testandoCSharp.dll
+C:\Users\lauramagf\nuvemALLDADOS\Documents\pucminas\testandoCSharp\obj\Debug\net9.0\refint\testandoCSharp.dll
+C:\Users\lauramagf\nuvemALLDADOS\Documents\pucminas\testandoCSharp\obj\Debug\net9.0\testandoCSharp.pdb
+C:\Users\lauramagf\nuvemALLDADOS\Documents\pucminas\testandoCSharp\obj\Debug\net9.0\ref\testandoCSharp.dll
+C:\Users\lauramagf\nuvemALLDADOS\OneDrive - ALLDADOS\Documents\pucminas\testandoCSharp\bin\Debug\net9.0\testandoCSharp.exe
+C:\Users\lauramagf\nuvemALLDADOS\OneDrive - ALLDADOS\Documents\pucminas\testandoCSharp\bin\Debug\net9.0\testandoCSharp.dll
+C:\Users\lauramagf\nuvemALLDADOS\OneDrive - ALLDADOS\Documents\pucminas\testandoCSharp\obj\Debug\net9.0\testandoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lauramagf\nuvemALLDADOS\OneDrive - ALLDADOS\Documents\pucminas\testandoCSharp\obj\Debug\net9.0\testandoCSharp.AssemblyInfoInputs.cache
+C:\Users\lauramagf\nuvemALLDADOS\OneDrive - ALLDADOS\Documents\pucminas\testandoCSharp\obj\Debug\net9.0\testandoCSharp.AssemblyInfo.cs
+C:\Users\lauramagf\nuvemALLDADOS\OneDrive - ALLDADOS\Documents\pucminas\testandoCSharp\obj\Debug\net9.0\testandoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\lauramagf\nuvemALLDADOS\OneDrive - ALLDADOS\Documents\pucminas\testandoCSharp\obj\Debug\net9.0\testandoCSharp.dll
+C:\Users\lauramagf\nuvemALLDADOS\OneDrive - ALLDADOS\Documents\pucminas\testandoCSharp\obj\Debug\net9.0\refint\testandoCSharp.dll
+C:\Users\lauramagf\nuvemALLDADOS\OneDrive - ALLDADOS\Documents\pucminas\testandoCSharp\obj\Debug\net9.0\testandoCSharp.pdb
+C:\Users\lauramagf\Documents\testandoCSharp\bin\Debug\net9.0\testandoCSharp.exe
+C:\Users\lauramagf\Documents\testandoCSharp\bin\Debug\net9.0\testandoCSharp.deps.json
+C:\Users\lauramagf\Documents\testandoCSharp\bin\Debug\net9.0\testandoCSharp.runtimeconfig.json
+C:\Users\lauramagf\Documents\testandoCSharp\bin\Debug\net9.0\testandoCSharp.dll
+C:\Users\lauramagf\Documents\testandoCSharp\bin\Debug\net9.0\testandoCSharp.pdb
+C:\Users\lauramagf\Documents\testandoCSharp\obj\Debug\net9.0\testandoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lauramagf\Documents\testandoCSharp\obj\Debug\net9.0\testandoCSharp.AssemblyInfoInputs.cache
+C:\Users\lauramagf\Documents\testandoCSharp\obj\Debug\net9.0\testandoCSharp.AssemblyInfo.cs
+C:\Users\lauramagf\Documents\testandoCSharp\obj\Debug\net9.0\testandoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\lauramagf\Documents\testandoCSharp\obj\Debug\net9.0\testandoCSharp.dll
+C:\Users\lauramagf\Documents\testandoCSharp\obj\Debug\net9.0\refint\testandoCSharp.dll
+C:\Users\lauramagf\Documents\testandoCSharp\obj\Debug\net9.0\testandoCSharp.pdb
+C:\Users\lauramagf\Documents\testandoCSharp\obj\Debug\net9.0\testandoCSharp.genruntimeconfig.cache
+C:\Users\lauramagf\Documents\testandoCSharp\obj\Debug\net9.0\ref\testandoCSharp.dll
